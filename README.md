@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<h2>I Used In This Project</h2>
+<ul>
+  <li>-&gt; React js</li>
+  <li>-&gt; React Hooks</li>
+  <li>-&gt; React Router Dom</li>
+  <li>-&gt; Redux TolkKit</li>
+  <li>-&gt; Rest API</li>
+  <li>-&gt; Tailwind css</li>
+</ul>
+
 ## Available Scripts
 
 In the project directory, you can run:
