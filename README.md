@@ -11,7 +11,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   <li>-&gt; Rest API</li>
   <li>-&gt; Tailwind css</li>
 </ul>
-
+<img src='/image/home.jpg' alt='' />
+<img src='/image/CartPage.jpg' alt='' />
+<img src='/image/modal.jpg' alt='' />
+<img src='/image/searchPage.jpg' alt='' />
 ## Available Scripts
 
 In the project directory, you can run:
